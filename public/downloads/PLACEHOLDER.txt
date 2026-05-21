@@ -1,0 +1,2 @@
+Please upload your GCMWC Standards Manual PDF to this location and rename it to 'gcmwc-standards-manual.pdf'.
+Files in the /public directory are accessible at the root URL of the application.
